@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile 😄
 - 👋 Hello, I’m Hai Nam Vu
 - 👀 I’m a data analytics & data science enthusiast
-- 🌱 I graduated from Northeastern University with master's in Analytics 
+- 🌱 I graduated from Northeastern University with a master's in Analytics 
 - 📔 I'm currently learning Data Analytics by myself through doing projects in Python & R
 - 💞️ I'm looking to connect with people who share the same interests
 - ⚡ Fun fact: I enjoyed watching the Premier League ⚽ and playing basketball 🏀 in my free time

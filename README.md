@@ -9,7 +9,7 @@
 
 <details>
     <summary>
-        <h3>Click here to view my resume 📝</h3>
+        <h3><ins>Click here to view my resume</ins> 📝</h3>
     </summary>
 <p align="center">
     <a href="https://github.com/namhaivu173/namhaivu173/blob/9b26f9225f015540fb6fa67c7d7dc49e16c3ed0d/HAI%20NAM%20VU%20Resume.pdf" target="_blank">

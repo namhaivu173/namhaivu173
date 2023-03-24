@@ -5,15 +5,14 @@
 - 📔 I'm currently learning Data Analytics by myself through doing independent projects in SQL, Python & R
 - 💞️ I'm looking to connect with people who share the same interests
 - ⚡ Fun fact: I enjoy watching the Premier League ⚽ and playing basketball 🏀 in my free time
-- 📫 You can reach me at namhaivu97@gmail.com or via <a href="https://www.linkedin.com/in/hai-vu/" target="_blank"> my Linkedin </a>
+- 📫 You can reach me at namhaivu97@gmail.com or via <a href="https://www.linkedin.com/in/hai-vu/" target="_blank">my Linkedin</a>
 
 <details>
     <summary>
-        <b>Click to show resume:</b>
+        <h3>Click here to view resume:</h3>
     </summary>
-    
 <p align="center">
-    <a href="https://github.com/namhaivu173/namhaivu173/blob/main/HAI%20NAM%20VU%20Resume.pdf" target="_blank"><i>Click here to access PDF version</i></a>
+    <a href="https://bit.ly/3Tx80ZH" target="_blank"><i>Click here to access PDF version</i></a>
     <br>
     <img src="https://raw.githubusercontent.com/namhaivu173/namhaivu173/main/HAI%20NAM%20VU%20Resume-1.png"
      alt="" title="Resume - Hai Nam Vu" width="85%" height="85%" 

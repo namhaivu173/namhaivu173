@@ -5,7 +5,7 @@
 - 📔 I'm currently learning Data Analytics by myself through doing independent projects in SQL, Python & R
 - 💞️ I'm looking to connect with people who share the same interests
 - ⚡ Fun fact: I enjoy watching the Premier League ⚽ and playing basketball 🏀 in my free time
-- 📫 You can reach me at namhaivu97@gmail.com or via <a href="https://linkedin.com/in/hai-vu/" target="_blank">my Linkedin</a>
+- 📫 You can reach me at namhaivu97@gmail.com or via <a href="https://www.linkedin.com/in/hai-vu/" target="_blank"> my Linkedin </a>
 - 📝 [Click to access my resume](https://github.com/namhaivu173/namhaivu173/blob/main/HAI%20NAM%20VU%20Resume.pdf)
 
 <p align="center">

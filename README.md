@@ -13,7 +13,8 @@
     </summary>
 <p align="center">
     <a href="https://github.com/namhaivu173/namhaivu173/blob/9b26f9225f015540fb6fa67c7d7dc49e16c3ed0d/HAI%20NAM%20VU%20Resume.pdf" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/namhaivu173/namhaivu173/main/HAI%20NAM%20VU%20Resume-1.png" title="Resume - Hai Nam Vu" width="85%" height="85%"> 
+        <img src="https://raw.githubusercontent.com/namhaivu173/namhaivu173/main/HAI%20NAM%20VU%20Resume-1.png" title="Resume - Hai Nam Vu" width="85%" height="85%" 
+         onclick="window.open('https://github.com/namhaivu173/namhaivu173/blob/9b26f9225f015540fb6fa67c7d7dc49e16c3ed0d/HAI%20NAM%20VU%20Resume.pdf', '_blank');"> 
     </a>
 </p>
 </details>

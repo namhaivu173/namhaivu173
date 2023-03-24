@@ -12,8 +12,8 @@
         <h3><ins>Click here to view my resume</ins> 📝</h3>
     </summary>
 <p align="center">
-    <a href="https://github.com/namhaivu173/namhaivu173/blob/9b26f9225f015540fb6fa67c7d7dc49e16c3ed0d/HAI%20NAM%20VU%20Resume.pdf" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/namhaivu173/namhaivu173/main/HAI%20NAM%20VU%20Resume-1.png" title="Click image to view PDF version" width="85%" height="85%"> 
+    <a href="https://drive.google.com/file/d/1xNom48yztD_234S2mduWn8hZReElrbcm/view?usp=sharing" target="_blank"> 
+        <img src="https://drive.google.com/uc?id=1ouGtklp71k2nErmoYVZ43aiENeNihIc0" title="Click image to view PDF version" width="85%" height="85%"> 
     </a>
 </p>
 </details>

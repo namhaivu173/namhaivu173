@@ -24,14 +24,8 @@
 **namhaivu173/namhaivu173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Resume - Hai Nam Vu](https://raw.githubusercontent.com/namhaivu173/namhaivu173/main/HAI%20NAM%20VU%20Resume-1.png)
-
-<img src="https://raw.githubusercontent.com/namhaivu173/namhaivu173/main/HAI%20NAM%20VU%20Resume-1.png"
-alt="" title="Resume - Hai Nam Vu" width="85%" height="85%" 
-onclick="window.open('https://raw.githubusercontent.com/namhaivu173/namhaivu173/main/HAI%20NAM%20VU%20Resume-1.png', '_blank');">
-
-<a href="https://github.com/namhaivu173/namhaivu173/blob/9b26f9225f015540fb6fa67c7d7dc49e16c3ed0d/HAI%20NAM%20VU%20Resume.pdf" target="_blank">
-<i>Click here to access PDF version</i>
-</a>
+[Click to access my resume](https://github.com/namhaivu173/namhaivu173/blob/9b26f9225f015540fb6fa67c7d7dc49e16c3ed0d/HAI%20NAM%20VU%20Resume.pdf)
+<a href="https://bit.ly/3Tx80ZH" target="_blank"><i>Click here to access PDF version</i></a>
 
 Here are some ideas to get you started:
 
@@ -43,7 +37,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 📝 [Click to access my resume](https://github.com/namhaivu173/namhaivu173/blob/9b26f9225f015540fb6fa67c7d7dc49e16c3ed0d/HAI%20NAM%20VU%20Resume.pdf)
-- <a href="https://bit.ly/3Tx80ZH" target="_blank"><i>Click here to access PDF version</i></a>
 
 -->

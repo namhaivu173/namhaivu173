@@ -6,10 +6,10 @@
 - 💞️ I'm looking to connect with people who share the same interests
 - ⚡ Fun fact: I enjoy watching the Premier League ⚽ and playing basketball 🏀 in my free time
 - 📫 You can reach me at namhaivu97@gmail.com or [linkedin.com/in/hai-vu](https://linkedin.com/in/hai-vu/)
-- 📝 [Click to access my resume](https://github.com/namhaivu173/namhaivu173/blob/main/HAI%20NAM%20VU%20Resume.pdf)
+- 📝 [Click to access PDF resume](https://github.com/namhaivu173/namhaivu173/blob/main/HAI%20NAM%20VU%20Resume.pdf)
 <p align="center">
 <img src="https://raw.githubusercontent.com/namhaivu173/namhaivu173/main/HAI%20NAM%20VU%20Resume-1.png" 
-alt="" title="Resume - Hai Nam Vu" width="70%" height="70%">
+alt="" title="Resume - Hai Nam Vu" width="70%" height="80%">
 </p>
 
 

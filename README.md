@@ -6,6 +6,9 @@
 - 💞️ I'm looking to connect with people who share the same interests
 - ⚡ Fun fact: I enjoy watching the Premier League ⚽ and playing basketball 🏀 in my free time
 - 📫 You can reach me at namhaivu97@gmail.com or https://www.linkedin.com/in/hai-vu/
+- 📝 [Click to access my resume](https://github.com/namhaivu173/namhaivu173/blob/main/HAI%20NAM%20VU%20Resume.pdf)
+
+![Resume - Hai Nam Vu](https://raw.githubusercontent.com/namhaivu173/namhaivu173/main/HAI%20NAM%20VU%20Resume-1.png)
 
 <!--
 **namhaivu173/namhaivu173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

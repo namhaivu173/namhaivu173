@@ -54,10 +54,9 @@
 
 <!--
 
+<img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=namhaivu173&color=brightgreen" />
 <img src="wallpaper_2.png" title="" width="80%" height="100%"> 
 <img align="center" width="100%" height="40%" alt="GIF" src="neural_gif1.gif" />
-![Resume - Hai Nam Vu]()
-[Click to access my resume]()
 <a href="" target="_blank"><i>Click here to access PDF version</i></a>
 <img align="left" alt="GitHub" width="35px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 

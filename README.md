@@ -40,9 +40,6 @@
 <img align="left" alt="PowerPoint" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" />
 
 <br>
-<br>
-<br>
-<br>
 
 <details>
     <summary>

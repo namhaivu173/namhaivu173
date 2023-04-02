@@ -19,9 +19,9 @@
 
 <h3>Data tools and languages 💻</h3>
 
-<img align="left" alt="Python" width="40px" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" />
 <img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Jupyter" width="40px" src="https://github.com/get-icon/geticon/blob/master/icons/jupyter.svg" />
+<img align="left" alt="VSCode" width="40px" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" />
 <img align="left" alt="R-lang" width="45px" src="https://github.com/get-icon/geticon/blob/master/icons/r-lang.svg" />
 <img align="left" alt="RStudio" width="35px" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/RStudio.svg" />
 <img align="left" alt="SQL Server" width="55px" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />

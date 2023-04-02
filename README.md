@@ -1,5 +1,5 @@
-<p align="center">
-    <img src="wallpaper_2.png" title="" width="80%" height="100%"> 
+<p align="center"> 
+    <img src="night_city.gif">
     <h1 align="center">
     <b>Welcome to my GitHub! I’m Hai Vu 👋😄</b>
     </h1>
@@ -53,13 +53,13 @@
 
 
 <!--
-**namhaivu173/namhaivu173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Resume - Hai Nam Vu](https://raw.githubusercontent.com/namhaivu173/namhaivu173/main/HAI%20NAM%20VU%20Resume-1.png)
-[Click to access my resume](https://github.com/namhaivu173/namhaivu173/blob/9b26f9225f015540fb6fa67c7d7dc49e16c3ed0d/HAI%20NAM%20VU%20Resume.pdf)
-<a href="https://bit.ly/3Tx80ZH" target="_blank"><i>Click here to access PDF version</i></a>
+<img src="wallpaper_2.png" title="" width="80%" height="100%"> 
+<img align="center" width="100%" height="40%" alt="GIF" src="neural_gif1.gif" />
+![Resume - Hai Nam Vu]()
+[Click to access my resume]()
+<a href="" target="_blank"><i>Click here to access PDF version</i></a>
 <img align="left" alt="GitHub" width="35px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

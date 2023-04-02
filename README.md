@@ -26,12 +26,12 @@
 <img align="left" alt="RStudio" width="35px" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/RStudio.svg" />
 <img align="left" alt="SQL Server" width="55px" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />
 <img align="left" alt="MySQL" width="55px" src="https://cdn.svgporn.com/logos/mysql.svg" />
-<img align="left" alt="Jira" width="35px" src="https://github.com/get-icon/geticon/blob/master/icons/jira.svg" />
+
 <br>
 <br>
 
 <br><img align="left" alt="Git" width="35px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
-<img align="left" alt="GitHub" width="35px" src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" />
+<img align="left" alt="Jira" width="35px" src="https://github.com/get-icon/geticon/blob/master/icons/jira.svg" />
 <img align="left" alt="Shiny" width="35px" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/shiny.svg" />
 <img align="left" alt="Tableau" width="35px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" />
 <img align="left" alt="PowerBI" width="30px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" />
@@ -56,6 +56,7 @@
 <!--
 
 <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=namhaivu173&color=brightgreen" />
+<img align="left" alt="GitHub" width="35px" src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" />
 <img src="wallpaper_2.png" title="" width="80%" height="100%"> 
 <img align="center" width="100%" height="40%" alt="GIF" src="neural_gif1.gif" />
 <a href="" target="_blank"><i>Click here to access PDF version</i></a>

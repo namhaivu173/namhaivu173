@@ -41,7 +41,7 @@
 
 <br>
 
-<details>
+<br><details>
     <summary>
         <h3><ins>Click here to view my resume</ins> 📝</h3>
     </summary>

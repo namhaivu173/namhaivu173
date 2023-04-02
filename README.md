@@ -32,9 +32,9 @@
 
 <br><img align="left" alt="Git" width="35px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
 <img align="left" alt="GitHub" width="35px" src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" />
-<img align="left" alt="Shiny" width="25px" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/shiny.svg" />
+<img align="left" alt="Shiny" width="35px" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/shiny.svg" />
 <img align="left" alt="Tableau" width="35px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" />
-<img align="left" alt="PowerBI" width="25px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" />
+<img align="left" alt="PowerBI" width="30px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" />
 <img align="left" alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
 <img align="left" alt="Word" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" />
 <img align="left" alt="PowerPoint" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" />

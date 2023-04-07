@@ -5,8 +5,8 @@
     </h1>
 </p>
 <p align="center">
-<a href="https://visitcount.itsvg.in" target="_blank"><img src="https://visitcount.itsvg.in/api?id=namhaivu173&icon=0&color=1"/></a><br>
-<a href="https://www.linkedin.com/in/hai-vu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://visitcount.itsvg.in" onclick="window.open(this.href,'_blank');return false;"><img src="https://visitcount.itsvg.in/api?id=namhaivu173&icon=0&color=1"/></a><br>
+<a href="https://www.linkedin.com/in/hai-vu/" onclick="window.open(this.href,'_blank');return false;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:namhaivu97@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=google&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 

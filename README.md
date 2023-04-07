@@ -5,6 +5,7 @@
     </h1>
 </p>
 <p align="center">
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=namhaivu173&icon=0&color=1"/></a><br>
 <a href="https://www.linkedin.com/in/hai-vu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:namhaivu97@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=google&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
@@ -51,7 +52,17 @@
 </p>
 </details>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=namhaivu173&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=namhaivu173&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=namhaivu173&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=namhaivu173&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 

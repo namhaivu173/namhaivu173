@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I enjoy watching the Premier League ⚽ and playing basketball 🏀 in my free time
 - 📫 You can reach me at namhaivu97@gmail.com or via <a href="https://www.linkedin.com/in/hai-vu/">my Linkedin</a>
 
-<h3>Data tools and languages 💻</h3>
+<h3>Data Tools & Languages 💻</h3>
 
 <img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Jupyter" width="40px" src="https://github.com/get-icon/geticon/blob/master/icons/jupyter.svg" />
@@ -41,7 +41,8 @@
 <img align="left" alt="PowerPoint" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" />
 
 <br>
-<br><details>
+<br>
+<details>
     <summary>
         <h3><ins>Click here to view my resume</ins> 📝</h3>
     </summary>
@@ -52,15 +53,17 @@
 </p>
 </details>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=namhaivu173&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=namhaivu173&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=namhaivu173&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">GitHub Stats 📊</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=namhaivu173&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namhaivu173&theme=radical&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namhaivu173&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=namhaivu173&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
+<h3 align="center">Top Contributed Repo 🔝</h3>
+<p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=namhaivu173&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

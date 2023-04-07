@@ -4,9 +4,10 @@
     <b>Welcome to my GitHub! I’m Hai Vu 👋😄</b>
     </h1>
 </p>
+
 <p align="center">
-<a href="https://visitcount.itsvg.in?newtab=true"><img src="https://visitcount.itsvg.in/api?id=namhaivu173&icon=0&color=1"/></a><br>
-<a href="https://www.linkedin.com/in/hai-vu/?newtab=true" onclick="window.open(this.href,'_blank');return false;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=namhaivu173&icon=0&color=1"/></a><br>
+<a href="https://www.linkedin.com/in/hai-vu/" onclick="window.open(this.href,'_blank');return false;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:namhaivu97@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=google&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
@@ -47,7 +48,7 @@
         <h3><ins>Click here to view my resume</ins> 📝</h3>
     </summary>
 <p align="center">
-    <a href="https://drive.google.com/uc?id=1xNom48yztD_234S2mduWn8hZReElrbcm/?newtab=true" target="_blank"> 
+    <a href="https://drive.google.com/uc?id=1xNom48yztD_234S2mduWn8hZReElrbcm/" target="_blank"> 
         <img src="https://drive.google.com/uc?id=1ouGtklp71k2nErmoYVZ43aiENeNihIc0" title="Click image to view PDF version" width="85%" height="85%"> 
     </a>
 </p>

@@ -61,7 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namhaivu173&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-<h3 align="center">Top Contributed Repo 🔝</h3>
+<h3 align="center">Top Contributed Repos 🔝</h3>
 <p align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=namhaivu173&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </p>

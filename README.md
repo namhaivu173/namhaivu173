@@ -49,7 +49,7 @@
         <h3><ins>Click here to view my resume</ins> 📝</h3>
     </summary>
 <p align="center">
-    <a href="https://drive.google.com/uc?id=1xNom48yztD_234S2mduWn8hZReElrbcm/" target="_blank"> 
+    <a href="https://drive.google.com/uc?id=1xNom48yztD_234S2mduWn8hZReElrbcm" target="_blank"> 
         <img src="https://drive.google.com/uc?id=1ouGtklp71k2nErmoYVZ43aiENeNihIc0" title="Click image to view PDF version" width="85%" height="85%"> 
     </a>
 </p>

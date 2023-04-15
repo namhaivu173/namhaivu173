@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-    <img src="coders_room.gif" width=50%>
+    <img src="arcade.gif" width=80%>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

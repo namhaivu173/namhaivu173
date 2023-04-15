@@ -67,10 +67,15 @@
     <img src="https://github-contributor-stats.vercel.app/api?username=namhaivu173&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </p>
 
+<p align="center">
+    <img src="coders_room.gif" width=50%>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
-
+https://www.pinterest.com/pin/90212798772681746/
+https://www.pinterest.com/pin/172333123232469150/
 <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=namhaivu173&color=brightgreen" />
 <img align="left" alt="GitHub" width="35px" src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" />
 <img src="wallpaper_2.png" title="" width="80%" height="100%"> 

@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-    <img src="arcade.gif" width=80%>
+    <img src="arcade.gif" width=100%>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -21,26 +21,29 @@
 <h3>Data Tools & Languages 💻</h3>
 
 <img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Jupyter" width="40px" src="https://github.com/get-icon/geticon/blob/master/icons/jupyter.svg" />
-<img align="left" alt="VSCode" width="40px" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" />
 <img align="left" alt="R-lang" width="45px" src="https://github.com/get-icon/geticon/blob/master/icons/r-lang.svg" />
-<img align="left" alt="RStudio" width="35px" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/RStudio.svg" />
 <img align="left" alt="SQL Server" width="55px" src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" />
 <img align="left" alt="MySQL" width="55px" src="https://cdn.svgporn.com/logos/mysql.svg" />
-<img align="left" alt="Streamlit" width="55px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"/>
-     
+<img align="left" alt="Git" width="35px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
+
 <br>
 <br>
 
-<br><img align="left" alt="Git" width="35px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
-<img align="left" alt="GitHub" width="35px" src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" />
-<img align="left" alt="Jira" width="35px" src="https://github.com/get-icon/geticon/blob/master/icons/jira.svg" />
+<br><img align="left" alt="Jupyter" width="40px" src="https://github.com/get-icon/geticon/blob/master/icons/jupyter.svg" />
+<img align="left" alt="VSCode" width="40px" src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" />
+<img align="left" alt="RStudio" width="35px" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/RStudio.svg" />
 <img align="left" alt="Shiny" width="35px" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/shiny.svg" />
+<img align="left" alt="Streamlit" width="45px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"/>
 <img align="left" alt="Tableau" width="35px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" />
-<img align="left" alt="PowerBI" width="30px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" />
+
+<br>
+<br>
+
+<br><img align="left" alt="PowerBI" width="30px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" />
 <img align="left" alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
 <img align="left" alt="Word" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" />
 <img align="left" alt="PowerPoint" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" />
+<img align="left" alt="Jira" width="35px" src="https://github.com/get-icon/geticon/blob/master/icons/jira.svg" />
 
 <br>
 <br>

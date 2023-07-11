@@ -5,7 +5,9 @@
     </h1>
 </p>
 <p align="center">
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=namhaivu173&icon=0&color=1"/></a><br>
+    <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=namhaivu173" />
+</p>
+<p align="center">
 <a href="https://www.linkedin.com/in/hai-vu/" onclick="window.open(this.href,'_blank');return false;"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:namhaivu97@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=google&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
@@ -78,6 +80,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=namhaivu173&icon=0&color=1"/></a><br>
 https://www.pinterest.com/pin/90212798772681746/
 https://www.pinterest.com/pin/172333123232469150/
 <img align="center" alt="visitors" src="https://komarev.com/ghpvc/?username=namhaivu173&color=brightgreen" />

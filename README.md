@@ -14,8 +14,9 @@
 
 <h3>I’m a data analytics & data science enthusiast 🔎👀</h3>
 
-- 🌱 I graduated from Northeastern University with a master's in Analytics 
-- 📔 I'm currently learning Data Analytics by myself through doing independent projects in SQL, Python & R
+- 🌱 I graduated from Northeastern University with a master's in Analytics
+- 🏢 I'm currently a full-time Data Analyst at the Institute for Health Metrics & Evaluation (IHME)
+- 📔 I'm trying to improve my Data Analytics skills through doing independent projects in SQL, Python & R
 - 💞️ I'm looking to connect with people who share the same interests
 - ⚡ Fun fact: I enjoy watching the Premier League ⚽ and playing basketball 🏀 in my free time
 - 📫 You can reach me at namhaivu97@gmail.com or via <a href="https://www.linkedin.com/in/hai-vu/">my Linkedin</a>

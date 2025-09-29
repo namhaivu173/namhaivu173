@@ -56,8 +56,8 @@
         <h3><ins>Click here to view my resume</ins> 📝</h3>
     </summary>
 <p align="center">
-    <img src="HAI NAM VU Resume - 09292025.png" target="_blank"> 
-        <img src="https://drive.google.com/uc?id=14lqUiEfh_gGc8FHYVAV-tzG7vcPtO7dE" title="Click image to view PDF version" width="85%" height="85%"> 
+    <a href="https://drive.google.com/uc?export=view&id=1BzLIPpE6AVqXiQTYeqv37D9rLJP5ChyG" target="_blank">
+        <img src="https://drive.google.com/uc?export=view&id=14lqUiEfh_gGc8FHYVAV-tzG7vcPtO7dE" title="Click image to view PNG version" width="85%" height="85%">
     </a>
 </p>
 </details>

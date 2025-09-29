@@ -58,7 +58,7 @@
     <p align="center">
         <a href="https://drive.google.com/uc?export=view&id=14lqUiEfh_gGc8FHYVAV-tzG7vcPtO7dE" target="_blank">
             <img src="HAI NAM VU Resume - 09292025.png" 
-                 title="Click image to view PNG version" 
+                 title="Click image to download PDF version" 
                  width="85%" height="85%">
         </a>
     </p>

@@ -57,7 +57,7 @@
     </summary>
     <p align="center">
         <a href="https://drive.google.com/uc?export=view&id=14lqUiEfh_gGc8FHYVAV-tzG7vcPtO7dE" target="_blank">
-            <img src="HAI NAM VU Resume - 09292025.png" 
+            <img src="https://github.com/namhaivu173/namhaivu173/blob/43f3c0081c7db739672d7e3ac174d59477c5acf7/HAI%20NAM%20VU%20Resume%20-%2009292025.png" # "HAI NAM VU Resume - 09292025.png" 
                  title="Click image to download PDF version" 
                  width="85%" height="85%">
         </a>

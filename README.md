@@ -43,9 +43,9 @@
 <br>
 
 <br><img align="left" alt="PowerBI" width="30px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" />
-<img align="left" alt="Excel" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
-<img align="left" alt="Word" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" />
-<img align="left" alt="PowerPoint" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" />
+<img align="left" alt="Excel" width="35px" src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" />
+<img align="left" alt="Word" width="35px" src="https://github.com/sempostma/office365-icons/blob/master/svg/word.svg" />
+<img align="left" alt="PowerPoint" width="35px" src="https://github.com/sempostma/office365-icons/blob/master/svg/powerpoint.svg" />
 <img align="left" alt="Jira" width="40px" src="https://github.com/get-icon/geticon/blob/master/icons/jira.svg" />
 <img align="left" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/115959043/232264283-8c197ac8-99dd-4b34-8fda-56e1b1ce9274.png" />
 
@@ -53,7 +53,7 @@
 <br>
 <details>
     <summary>
-        <h3><ins>Click here to view my resume</ins> 📝</h3>
+        <h3 style="text-align: left; margin: 0;"><ins>Click here to view my resume</ins> 📝</h3>
     </summary>
     <p align="center">
         <a href="https://drive.google.com/uc?export=view&id=14lqUiEfh_gGc8FHYVAV-tzG7vcPtO7dE" target="_blank">

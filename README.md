@@ -18,7 +18,7 @@
 - 🏢 I'm currently a full-time Data Analyst at the <a href="https://www.healthdata.org/">Institute for Health Metrics & Evaluation (IHME)</a>
 - 📔 I'm trying to improve my Data Analytics skills through doing independent projects in SQL, Python & R
 - 💞️ I'm looking to connect with people who share the same interests
-- ⚡ Fun fact: I enjoy watching the Premier League ⚽ and playing basketball 🏀 in my free time
+- ⚡ Fun fact: I enjoy watching movies 🍿 and playing basketball 🏀 in my free time
 - 📫 You can reach me at namhaivu97@gmail.com or via <a href="https://www.linkedin.com/in/hai-vu/">my Linkedin</a>
 
 <h3>Data Tools & Languages 💻</h3>
